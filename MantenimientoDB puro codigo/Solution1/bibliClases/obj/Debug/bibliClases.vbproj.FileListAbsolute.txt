@@ -1,0 +1,10 @@
+D:\DIANA\VB\MantenimientoDB puro codigo\Solution1\bibliClases\bin\Debug\bibliClases.dll
+D:\DIANA\VB\MantenimientoDB puro codigo\Solution1\bibliClases\bin\Debug\bibliClases.pdb
+D:\DIANA\VB\MantenimientoDB puro codigo\Solution1\bibliClases\bin\Debug\bibliClases.xml
+D:\DIANA\VB\MantenimientoDB puro codigo\Solution1\bibliClases\bin\Debug\MySql.Data.dll
+D:\DIANA\VB\MantenimientoDB puro codigo\Solution1\bibliClases\obj\Debug\bibliClases.vbprojResolveAssemblyReference.cache
+D:\DIANA\VB\MantenimientoDB puro codigo\Solution1\bibliClases\obj\Debug\bibliClases.Resources.resources
+D:\DIANA\VB\MantenimientoDB puro codigo\Solution1\bibliClases\obj\Debug\bibliClases.vbproj.GenerateResource.Cache
+D:\DIANA\VB\MantenimientoDB puro codigo\Solution1\bibliClases\obj\Debug\bibliClases.dll
+D:\DIANA\VB\MantenimientoDB puro codigo\Solution1\bibliClases\obj\Debug\bibliClases.xml
+D:\DIANA\VB\MantenimientoDB puro codigo\Solution1\bibliClases\obj\Debug\bibliClases.pdb
