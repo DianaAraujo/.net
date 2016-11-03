@@ -14,8 +14,6 @@ Partial Class _Default
         txtNombre.Text = row.Cells(2).Text
         txtApellido.Text = row.Cells(3).Text
         automovil.SelectedItem.Text = row.Cells(4).Text
-      
-
 
 
     End Sub
@@ -26,10 +24,15 @@ Partial Class _Default
         Dim apellido As String = txtApellido.Text
         Dim tipo_vehiculo = automovil.SelectedValue.ToString
         oDAO.agregar(nombre, apellido, tipo_vehiculo)
+        MsgBox(tipo_vehiculo)
+        txtApellido.Text = ""
+        txtCodigoP.Text = ""
+        txtNombre.Text = ""
 
         GridView1.DataSource = oDAO.selectt
         GridView1.DataBind()
 
+        
 
     End Sub
    
@@ -50,8 +53,13 @@ Partial Class _Default
         Dim valor_vehiculo As String = automovil.SelectedItem.ToString
         oDAO.update(id_personas, nombre, apellido, valor_vehiculo)
 
+        txtApellido.Text = ""
+        txtCodigoP.Text = ""
+        txtNombre.Text = ""
+
         GridView1.DataSource = oDAO.selectt
         GridView1.DataBind()
+
        
 
     End Sub
